@@ -1,0 +1,16 @@
+
+body{
+	background-image:url("arbre.gif");
+	background-repeat: no-repeat;
+	background-size: cover
+}
+
+#entete{
+	text-align: center;
+	color: white;
+}
+#calendrier{
+	text-align: center;
+	color: white;
+	
+}
